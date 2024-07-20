@@ -8,7 +8,10 @@
 
 # Email App
 
-A simple email application built with Python and Django to send and receive emails.
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Django](https://img.shields.io/badge/Django-3.1-green)
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+A simple email application to send and receive emails.
 
 ## Table of Contents
 
